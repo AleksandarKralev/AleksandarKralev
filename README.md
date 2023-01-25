@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm AleksandarKralev</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandarkralev&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandarkralev" /> </p>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5640839.png" width="783" height="113" alt="Hi, i'm Aleksandar Kralev" /></a>
+<a href="https://cooltext.com/Edit-Logo?LogoID=4281758119">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksandarkralev" alt="aleksandarkralev" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif">
+<img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif">
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,6 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandarkralev&show_icons=true&locale=en&layout=compact" alt="aleksandarkralev" /></p>
