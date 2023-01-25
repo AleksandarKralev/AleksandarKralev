@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksandarkralev" alt="aleksandarkralev" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.gifer.com/3Eqa.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif">
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
