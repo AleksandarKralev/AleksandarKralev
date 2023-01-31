@@ -1,5 +1,9 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5640839.png" width="783" height="113" alt="Hi, i'm Aleksandar Kralev" /></a>
 <a href="https://cooltext.com/Edit-Logo?LogoID=4281758119">
+  
+I start my coding journey with a passion to learn everything I could about this programming world - code,theory.
+I have a dream to build my own app and i'm looking foward to it.Hopefully this year brings me one step closer.
+I'm currently learning programming with C#
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AleksandarKralev&theme=matrix)](https://github.com/AleksandarKralev/github-profile-trophy)
 
@@ -21,7 +25,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandarKralev&show_icons=true&theme=chartreuse-dark)
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AleksandarKralev&theme=hacker)](https://git.io/streak-stats)
-
-I start my coding journey with a passion to learn everything I could about this programming world - code,theory.
-I have a dream to build my own app and i'm looking foward to it.Hopefully this year brings me one step closer.
-I'm currently learning programming with C#
